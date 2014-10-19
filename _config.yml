@@ -87,4 +87,4 @@ exclude_generator:
 deploy:
   type: github
   repository: https://github.com/binchensjtu/binchensjtu.github.io.git
-  branch: gh-pages
+  branch: master
